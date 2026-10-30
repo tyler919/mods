@@ -1,0 +1,34 @@
+# Adds a "mod: <name>" label from the "Which mod?" dropdown so issues can be filtered per mod.
+# Keep MODS in sync with the dropdown in .github/ISSUE_TEMPLATE/*.yml (and create the matching label).
+name: Label by mod
+on:
+  issues:
+    types: [opened, edited]
+permissions:
+  issues: write
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const MODS = {
+              'Colossal Furnace': 'mod: Colossal Furnace',
+              'Colossal Quarry': 'mod: Colossal Quarry',
+              'Colossal Apiary': 'mod: Colossal Apiary',
+              'XP Works': 'mod: XP Works',
+              'Radio Works': 'mod: Radio Works',
+              'MVD 2 (modpack)': 'mod: MVD 2',
+            };
+            const issue = context.payload.issue;
+            const m = (issue.body || '').match(/###\s*Which mod\?\s*\r?\n+\s*(.+)/);
+            const label = m && MODS[m[1].trim()];
+            if (!label) return;
+            const have = issue.labels.map(l => l.name);
+            for (const old of have.filter(n => n.startsWith('mod: ') && n !== label)) {
+              await github.rest.issues.removeLabel({ ...context.repo, issue_number: issue.number, name: old });
+            }
+            if (!have.includes(label)) {
+              await github.rest.issues.addLabels({ ...context.repo, issue_number: issue.number, labels: [label] });
+            }

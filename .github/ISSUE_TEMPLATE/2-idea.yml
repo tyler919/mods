@@ -1,0 +1,44 @@
+name: 💡 Idea / feature request
+description: Something you'd like added or changed.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea? Please [search the existing issues](https://github.com/tyler919/mods/issues?q=is%3Aissue) first. If someone already suggested it, give it a 👍. That's how I see which ideas people want most.
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Which mod?
+      options:
+        - Colossal Furnace
+        - Colossal Quarry
+        - Colossal Apiary
+        - XP Works
+        - Radio Works
+        - MVD 2 (modpack)
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the feature or change. The more specific, the better.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why?
+      description: What problem would it solve, or what would it let you do that you can't now?
+  - type: input
+    id: version
+    attributes:
+      label: Mod version you're on (if you know it)
+      placeholder: e.g. 1.0.0
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Sketches, screenshots, examples from other mods, anything that helps explain it.

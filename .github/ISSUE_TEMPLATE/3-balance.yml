@@ -1,0 +1,61 @@
+name: ⚖️ Balance problem
+description: Something is too strong, too weak, too expensive, or too slow.
+title: "[Balance] "
+labels: ["balance"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Balance feedback helps a lot. Numbers are the most useful part: what you built, which upgrades, how much power, how long it took.
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Which mod?
+      options:
+        - Colossal Furnace
+        - Colossal Quarry
+        - Colossal Apiary
+        - XP Works
+        - Radio Works
+        - MVD 2 (modpack)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Mod version
+      placeholder: e.g. 1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What feels off?
+      description: What's too strong, too weak, too expensive or too slow?
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Your setup
+      description: Which machine or tier, which upgrades, what power source and how many, and what happened.
+      placeholder: e.g. Quarry with Speed III + Fortune III, 6 Coal Generators, it keeps running out of power
+  - type: textarea
+    id: fix
+    attributes:
+      label: What would feel right?
+      description: Optional, but your suggestion helps.
+  - type: dropdown
+    id: config
+    attributes:
+      label: Have you changed this mod's config?
+      options:
+        - "No, it's the default settings"
+        - "Yes (say what below)"
+        - Not sure / it's a modpack
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?

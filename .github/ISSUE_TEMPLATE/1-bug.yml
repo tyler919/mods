@@ -1,0 +1,84 @@
+name: 🐞 Bug report
+description: Something crashes, breaks, or doesn't do what it should.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this! Please [search the existing issues](https://github.com/tyler919/mods/issues?q=is%3Aissue) first. If it's already there, add a 👍 or a comment instead.
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Which mod?
+      options:
+        - Colossal Furnace
+        - Colossal Quarry
+        - Colossal Apiary
+        - XP Works
+        - Radio Works
+        - MVD 2 (modpack)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Mod version
+      description: It's in the jar's file name or the in-game Mods menu.
+      placeholder: e.g. 1.0.0
+    validations:
+      required: true
+  - type: dropdown
+    id: mc
+    attributes:
+      label: Minecraft version
+      options:
+        - "1.21.1"
+        - "1.20.1"
+        - Other (say which below)
+    validations:
+      required: true
+  - type: dropdown
+    id: loader
+    attributes:
+      label: Mod loader
+      options:
+        - NeoForge
+        - Forge
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect to happen instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How do I make it happen?
+      description: The steps to trigger the bug, as exactly as you can.
+      placeholder: |
+        1. Build a ...
+        2. Put ... in ...
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: log
+    attributes:
+      label: Crash report or log
+      description: Upload your crash report or logs/latest.log to https://mclo.gs and paste the link here.
+      placeholder: https://mclo.gs/...
+  - type: textarea
+    id: setup
+    attributes:
+      label: Modpack or other mods
+      description: Are you playing a modpack? Any other mods that might be involved (pipes, storage, tech mods)? Singleplayer or a server?
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, videos, config changes, anything that might help.
