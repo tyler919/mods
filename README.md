@@ -1,4 +1,4 @@
-# Tyler's Minecraft mods: bugs, ideas and feedback
+# DecayPlay's Minecraft mods: bugs, ideas and feedback
 
 This is the place to report a bug, suggest an idea, or tell me something feels unbalanced in any of my mods.
 There's no code here, just your posts.
