@@ -5,6 +5,8 @@ There's no code here, just your posts.
 
 **[Open a new issue →](https://github.com/tyler919/mods/issues/new/choose)**
 
+**[🗺️ See the roadmap →](ROADMAP.md)**: what's out, what's next and what's planned for each mod.
+
 You'll pick one of three forms:
 
 | Form | Use it when |
