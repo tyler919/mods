@@ -9,12 +9,13 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 | Word | Means |
 |---|---|
 | **Out now** | On CurseForge |
+| **Being built** | Being made right now, for the next update |
 | **Planned** | Decided, coming in a later update |
 | **Ideas** | Being considered, not promised yet |
 
 **Prefer clicking around?** The same roadmap is an [interactive board](https://github.com/users/tyler919/projects/2), with a tab for each mod.
 
-_Last updated: October 31, 2026_
+_Last updated: November 1, 2026_
 
 ---
 
@@ -22,6 +23,10 @@ _Last updated: October 31, 2026_
 
 **Out now: 1.1.0** (NeoForge and Forge, 1.21.1). Added the Heavy Generator and a Void filter you set yourself
 (Blacklist / Whitelist).
+
+**Being built: 1.2.0**
+- Build hologram: place a rig Controller, or right-click one, and see-through ghost blocks show where every rig part
+  goes and which blocks are in the way
 
 **Planned: 2.0, logistics**
 - Storage Silo: a multiblock that holds huge amounts of a few item types
@@ -38,7 +43,7 @@ _Last updated: October 31, 2026_
 - Overdrive, kept cool with water
 - Survey Scanner, and a Survey button that predicts the whole dig
 - Dense Silo Casing (4× the space)
-- Field Manual with a build hologram, advancements and a full set of sounds
+- Field Manual (an in-game guide book), advancements and a full set of sounds
 - A charge slot on the generators, and optional CC:Tweaked support
 
 **Ideas from players**
