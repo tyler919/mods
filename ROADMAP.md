@@ -12,6 +12,8 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 | **Planned** | Decided, coming in a later update |
 | **Ideas** | Being considered, not promised yet |
 
+**Prefer clicking around?** The same roadmap is an [interactive board](https://github.com/users/tyler919/projects/2), with a tab for each mod.
+
 _Last updated: October 31, 2026_
 
 ---
