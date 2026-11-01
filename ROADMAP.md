@@ -28,6 +28,9 @@ _Last updated: November 1, 2026_
 - Build hologram: place a rig Controller, or right-click one, and see-through ghost blocks show where every rig part
   goes and which blocks are in the way
 
+**Planned: 1.3.0**
+- In-game Ponder guides: install Ponder and hold W over a Quarry block to see, step by step, how to build and use it
+
 **Planned: 2.0, logistics**
 - Storage Silo: a multiblock that holds huge amounts of a few item types
 - Quarry Conveyor: links rigs to silos
@@ -55,7 +58,8 @@ _Last updated: November 1, 2026_
 **Out now: 1.2.1** (NeoForge 1.21.1). Tiers 1 to 5 and Tier 20, the Heart slot, and an optional Liquid Experience
 tank when XP Works is installed.
 
-Nothing picked for the next update yet. Ideas welcome!
+**Planned: 1.3.0**
+- In-game Ponder guides: install Ponder and hold W over a Colossal Furnace block to see, step by step, how to build and use it
 
 ## XP Works
 
@@ -67,6 +71,9 @@ Nothing picked for the next update yet. Ideas welcome!
 ## Colossal Apiary
 
 **Out now: 1.0.0** (NeoForge 1.21.1, needs Productive Bees).
+
+**Planned: 1.1.0**
+- In-game Ponder guides: install Ponder and hold W over a Colossal Apiary block to see, step by step, how to build and use it
 
 **Ideas**
 - An AE2 output port
