@@ -26,6 +26,13 @@ Every form asks which mod it's about, so your post lands in the right pile.
 - **Radio Works**: radios and speakers
 - **MVD 2**: the modpack
 
+## How these mods are made
+
+These mods are made with AI tools. I come up with the ideas and make the design decisions (what each mod does, how it
+works and how it's balanced), and I test every version in game before it's released. The code, textures and art are
+made with AI tools: with the time I have, that's how I can build them. I read every bug report and idea posted here,
+and they shape what gets made next. If you'd rather not use AI-made mods, I understand, and these may not be for you.
+
 ## Before you post
 
 - **Search first.** If someone already posted your idea, give it a 👍 instead of posting it again. I look at the 👍 counts when I pick what goes in the next update.
