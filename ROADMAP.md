@@ -27,6 +27,9 @@ _Last updated: November 2, 2026_
 comes with Create 6) and hold W over a Quarry block. Animated scenes show how to build the rig (the inside stays
 empty), the build hologram, where it digs, upgrades, ports and power.
 
+**Being built: 1.3.1**
+- In-game guides without Create: Ponder comes inside the mod (NeoForge)
+
 **Planned: 2.0, logistics**
 - Storage Silo: a multiblock that holds huge amounts of a few item types
 - Quarry Conveyor: links rigs to silos
