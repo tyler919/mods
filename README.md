@@ -7,6 +7,8 @@ There's no code here, just your posts.
 
 **[🗺️ See the roadmap →](https://github.com/users/tyler919/projects/2)**: what's out, what's next and what's planned for each mod (an interactive board, or the [plain-text version](ROADMAP.md)).
 
+**[💬 Join the Discord: DecayPlay's Workshop →](https://discord.gg/y6z5GpgBcr)**: update announcements for every mod, with pings for the mods you pick.
+
 You'll pick one of three forms:
 
 | Form | Use it when |

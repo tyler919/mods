@@ -15,6 +15,8 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Prefer clicking around?** The same roadmap is an [interactive board](https://github.com/users/tyler919/projects/2), with a tab for each mod.
 
+**Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
+
 _Last updated: November 1, 2026_
 
 ---
