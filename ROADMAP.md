@@ -95,3 +95,7 @@ Nothing picked for the next update yet. Ideas welcome!
 ## Atomic Generation
 
 **Coming soon: 0.1 beta.**
+
+## Living Roads
+
+**Coming soon.** A brand new mod: roads between villages that grow as you play, built by a new Road Builder villager.
