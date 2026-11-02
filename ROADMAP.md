@@ -17,17 +17,15 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 1, 2026_
+_Last updated: November 2, 2026_
 
 ---
 
 ## Colossal Quarry
 
-**Out now: 1.2.0** (NeoForge and Forge, 1.21.1). Added the build hologram: place a rig Controller, or right-click
-one, and see-through ghost blocks show where every rig part goes and which blocks are in the way.
-
-**Planned: 1.3.0**
-- In-game Ponder guides: install Ponder and hold W over a Quarry block to see, step by step, how to build and use it
+**Out now: 1.3.0** (NeoForge, 1.21.1; the Forge file stays on 1.2.0). Added in-game Ponder guides: install Ponder (it
+comes with Create 6) and hold W over a Quarry block. Animated scenes show how to build the rig (the inside stays
+empty), the build hologram, where it digs, upgrades, ports and power.
 
 **Planned: 2.0, logistics**
 - Storage Silo: a multiblock that holds huge amounts of a few item types
