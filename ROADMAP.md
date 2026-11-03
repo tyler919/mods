@@ -23,9 +23,9 @@ _Last updated: November 3, 2026_
 
 ## Colossal Quarry
 
-**Out now: 1.3.1** (NeoForge, 1.21.1; the Forge file stays on 1.2.0). The in-game Ponder guides now work without
-Create: Ponder comes inside the mod. Hold W over a Quarry block: animated scenes show how to build the rig (the inside
-stays empty), the build hologram, where it digs, upgrades, ports and power.
+**Out now: 1.4.0** (NeoForge, 1.21.1; the Forge file stays on 1.2.0). Energy Port Output mode: take the rig's power
+back out. Sneak + right-click an Energy Port and it gives the rig's stored FE back out: cables and batteries can pull
+it, and it fills a battery placed right next to it. Input stays the default.
 
 **Planned: 2.0, logistics**
 - Storage Silo: a multiblock that holds huge amounts of a few item types
