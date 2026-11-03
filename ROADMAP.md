@@ -31,7 +31,8 @@ stays empty), the build hologram, where it digs, upgrades, ports and power.
 - Storage Silo: a multiblock that holds huge amounts of a few item types
 - Quarry Conveyor: links rigs to silos
 - Pump upgrade + Fluid Port: keeps lava and water instead of deleting it
-- The generators burn lava, from a tank you can fill by pipe
+- Lava Generator and Heavy Lava Generator: burn lava (the Heavy one holds 120 buckets); the Heavy Generator is renamed the Heavy Coal Generator
+- Extra drills upgrade: up to 4 drills share one dig, more the bigger the area (name not final)
 - Pick-your-own list for the Ore Sieve upgrade
 - Fill-back upgrade: leaves no hole
 - XP Collector upgrade
