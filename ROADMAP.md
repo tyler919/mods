@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 3, 2026_
+_Last updated: November 5, 2026_
 
 ---
 
@@ -54,6 +54,9 @@ it, and it fills a battery placed right next to it. Input stays the default.
 
 **Out now: 1.2.1** (NeoForge 1.21.1). Tiers 1 to 5 and Tier 20, the Heart slot, and an optional Liquid Experience
 tank when XP Works is installed.
+
+**Being built: 1.4.0**
+- Lava from tanks: burn lava straight from a tank or fluid pipe from any mod, no buckets needed. The furnace only takes the lava it needs for what's cooking. At Tier 20, lava smelts 1,500 items per bucket
 
 **Planned: 1.3.0**
 - In-game Ponder guides: install Ponder and hold W over a Colossal Furnace block to see, step by step, how to build and use it
