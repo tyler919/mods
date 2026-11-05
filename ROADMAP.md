@@ -52,11 +52,10 @@ it, and it fills a battery placed right next to it. Input stays the default.
 
 ## Colossal Furnace
 
-**Out now: 1.4.0** (NeoForge 1.21.1, needs Jumbo Furnace). Tiers 1 to 5 and Tier 20, the Heart slot, in-game Ponder
-guides (install Ponder; it comes with Create 6), and an optional Liquid Experience tank when XP Works is installed.
-New in 1.4.0: lava straight from tanks and pipes. Put a tank from any mod against the furnace, or pipe lava in, and it
-burns the lava with no buckets. It takes only what the cooking needs, so nothing burns off. At Tier 20, one bucket of
-lava smelts 1,500 items (was 800).
+**Out now: 1.4.1** (NeoForge 1.21.1, needs Jumbo Furnace). Tiers 1 to 5 and Tier 20, the Heart slot, lava straight
+from tanks and pipes (at Tier 20 one bucket of lava smelts 1,500 items), and an optional Liquid Experience tank when
+XP Works is installed. New in 1.4.1: the in-game Ponder guides are now included, so they work without Create: hover a
+block and hold W. Also fixes the furnace's front staying dark when only a pipe feeds it lava.
 
 ## XP Works
 
