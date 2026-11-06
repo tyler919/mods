@@ -27,7 +27,7 @@ _Last updated: November 5, 2026_
 back out. Sneak + right-click an Energy Port and it gives the rig's stored FE back out: cables and batteries can pull
 it, and it fills a battery placed right next to it. Input stays the default.
 
-**Planned: 2.0, logistics**
+**Being built: 2.0.0, logistics**
 - Storage Silo: a multiblock that holds huge amounts of a few item types
 - Quarry Conveyor: links rigs to silos
 - Pump upgrade + Fluid Port: keeps lava and water instead of deleting it
