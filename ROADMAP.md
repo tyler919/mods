@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 5, 2026_
+_Last updated: November 6, 2026_
 
 ---
 
@@ -32,7 +32,7 @@ it, and it fills a battery placed right next to it. Input stays the default.
 - Quarry Conveyor: links rigs to silos
 - Pump upgrade + Fluid Port: keeps lava and water instead of deleting it
 - Lava Generator and Heavy Lava Generator: burn lava (the Heavy one holds 120 buckets); the Heavy Generator is renamed the Heavy Coal Generator
-- Extra drills upgrade: up to 4 drills share one dig, more the bigger the area (name not final)
+- Extra Drills Upgrade: up to 4 drills share one dig, more the bigger the area
 - Pick-your-own list for the Ore Sieve upgrade
 - Fill-back upgrade: leaves no hole
 - XP Collector upgrade
