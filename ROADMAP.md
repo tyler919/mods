@@ -66,12 +66,9 @@ Nothing picked for the next update yet. Ideas welcome!
 
 ## Colossal Apiary
 
-**Out now: 1.1.0** (NeoForge 1.21.1, needs Productive Bees). Added in-game Ponder guides: install Ponder (it comes with
-Create 6) and hold W over a Colossal Apiary block. Animated scenes show how to build the apiary (the inside stays
-empty), the bigger Tier II and Tier III shells, bees in and ore out, and the upgrades.
-
-**Planned: 1.1.1**
-- In-game guides without Create: Ponder comes inside the mod
+**Out now: 1.1.1** (NeoForge 1.21.1, needs Productive Bees). In-game Ponder guides: hold W over a Colossal Apiary
+block, and animated scenes show how to build the apiary (the inside stays empty), the bigger Tier II and Tier III
+shells, bees in and ore out, and the upgrades. New in 1.1.1: the guides are now included, so they work without Create.
 
 **Ideas**
 - An AE2 output port
