@@ -70,7 +70,7 @@ Nothing picked for the next update yet. Ideas welcome!
 Create 6) and hold W over a Colossal Apiary block. Animated scenes show how to build the apiary (the inside stays
 empty), the bigger Tier II and Tier III shells, bees in and ore out, and the upgrades.
 
-**Being built: 1.1.1**
+**Planned: 1.1.1**
 - In-game guides without Create: Ponder comes inside the mod
 
 **Ideas**
