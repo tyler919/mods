@@ -23,19 +23,14 @@ _Last updated: November 6, 2026_
 
 ## Colossal Quarry
 
-**Out now: 1.4.0** (NeoForge, 1.21.1; the Forge file stays on 1.2.0). Energy Port Output mode: take the rig's power
-back out. Sneak + right-click an Energy Port and it gives the rig's stored FE back out: cables and batteries can pull
-it, and it fills a battery placed right next to it. Input stays the default.
-
-**Being built: 2.0.0, logistics**
-- Storage Silo: a multiblock that holds huge amounts of a few item types
-- Quarry Conveyor: links rigs to silos
-- Pump upgrade + Fluid Port: keeps lava and water instead of deleting it
-- Lava Generator and Heavy Lava Generator: burn lava (the Heavy one holds 120 buckets); the Heavy Generator is renamed the Heavy Coal Generator
-- Extra Drills Upgrade: up to 4 drills share one dig, more the bigger the area
-- Pick-your-own list for the Ore Sieve upgrade
-- Fill-back upgrade: leaves no hole
-- XP Collector upgrade
+**Out now: 2.0.0** (NeoForge, 1.21.1; the Forge file stays on 1.2.0). Logistics: the Storage Silo (a multiblock from
+3x3x3 to 9x9x9 that holds huge amounts of a few item types and fluids; AE2 and Refined Storage can use it), the
+Quarry Conveyor that links rigs to silos, the Pump upgrade + Fluid Port (the rig keeps the lava and water it digs
+through), the Lava Generator and Heavy Lava Generator (the Heavy Generator is now the Heavy Coal Generator), a
+pick-your-own list for the Ore Sieve upgrade, the Fill-back upgrade (leaves no hole), the XP Collector upgrade and
+the Extra Drills Upgrade (up to 4 drills share one dig). Also new: a detailed new look for the gantry, a frame that
+builds itself, Speed upgrades that take bigger bites instead of moving faster, and in-game guides for every new part.
+Worlds from 1.x carry over.
 
 **Planned: 3.0, the full rig**
 - Bigger rigs: the Heavy Rig (7×7×7) and the Colossal Rig (9×9×9)
