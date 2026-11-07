@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 6, 2026_
+_Last updated: November 7, 2026_
 
 ---
 
@@ -31,6 +31,9 @@ pick-your-own list for the Ore Sieve upgrade, the Fill-back upgrade (leaves no h
 the Extra Drills Upgrade (up to 4 drills share one dig). Also new: a detailed new look for the gantry, a frame that
 builds itself, Speed upgrades that take bigger bites instead of moving faster, and in-game guides for every new part.
 Worlds from 1.x carry over.
+
+**Being built: 2.1.0**
+- The Pump empties a whole lake or flooded cave in one trip, and the quarry rechecks its hole every time the world loads
 
 **Planned: 3.0, the full rig**
 - Bigger rigs: the Heavy Rig (7×7×7) and the Colossal Rig (9×9×9)
