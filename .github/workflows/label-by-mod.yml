@@ -19,6 +19,7 @@ jobs:
               'Colossal Apiary': 'mod: Colossal Apiary',
               'XP Works': 'mod: XP Works',
               'Radio Works': 'mod: Radio Works',
+              'Atomic Generation': 'mod: Atomic Generation',
               'MVD 2 (modpack)': 'mod: MVD 2',
             };
             const issue = context.payload.issue;

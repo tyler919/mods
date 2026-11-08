@@ -26,6 +26,7 @@ Every form asks which mod it's about, so your post lands in the right pile.
 - **Colossal Apiary**: a late-game Productive Bees add-on
 - **XP Works**: liquid XP, tanks and drains
 - **Radio Works**: radios and speakers
+- **Atomic Generation**: realistic nuclear power, from uranium ore to a reactor going critical (early beta)
 - **MVD 2**: the modpack
 
 ## How these mods are made

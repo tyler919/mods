@@ -17,6 +17,7 @@ body:
         - Colossal Apiary
         - XP Works
         - Radio Works
+        - Atomic Generation
         - MVD 2 (modpack)
     validations:
       required: true
