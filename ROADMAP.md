@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 7, 2026_
+_Last updated: November 8, 2026_
 
 ---
 
@@ -89,7 +89,14 @@ shells, bees in and ore out, and the upgrades. New in 1.1.1: the guides are now 
 
 ## Atomic Generation
 
-**Coming soon: 0.1 beta.**
+**Out now: 0.1.0-m4** (NeoForge 1.21.1), an early beta: milestones 1 to 4 of Atomic Generation 1.0, "First
+Criticality". The real nuclear fuel cycle, from uranium ore to a reactor going critical: 20 ores, radiation in sieverts
+with shielding and contamination, a Geiger counter and hazmat gear; pipes with a real temperature and pressure; the
+whole fuel front end, from ore through centrifuge enrichment to fuel (every gram of U-235 accounted for); the steam
+power side, with a multiblock turbine, a cooling tower and an emergency diesel; and the first reactor, the Chicago
+Pile: build it your own way from graphite and uranium, approach critical with a neutron source and a counter, and
+control it with cadmium rods and a zip rod. Also a research tree: the pile's logs unlock the next reactors' designs.
+No power reactor yet: the pile makes no power. Worlds carry forward to the next betas.
 
 ## Living Roads
 
