@@ -17,23 +17,21 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 8, 2026_
+_Last updated: November 14, 2026_
 
 ---
 
 ## Colossal Quarry
 
-**Out now: 2.0.0** (NeoForge, 1.21.1; the Forge file stays on 1.2.0). Logistics: the Storage Silo (a multiblock from
-3x3x3 to 9x9x9 that holds huge amounts of a few item types and fluids; AE2 and Refined Storage can use it), the
-Quarry Conveyor that links rigs to silos, the Pump upgrade + Fluid Port (the rig keeps the lava and water it digs
-through), the Lava Generator and Heavy Lava Generator (the Heavy Generator is now the Heavy Coal Generator), a
-pick-your-own list for the Ore Sieve upgrade, the Fill-back upgrade (leaves no hole), the XP Collector upgrade and
-the Extra Drills Upgrade (up to 4 drills share one dig). Also new: a detailed new look for the gantry, a frame that
-builds itself, Speed upgrades that take bigger bites instead of moving faster, and in-game guides for every new part.
-Worlds from 1.x carry over.
-
-**Being built: 2.1.0**
-- The Pump empties a whole lake or flooded cave in one trip, and the quarry rechecks its hole every time the world loads
+**Out now: 2.1.0** (NeoForge, 1.21.1; the Forge file stays on 1.2.0; a beta build on CurseForge). The Pump drains a
+whole lake in one trip: the first time the dig reaches a lake, a flooded cave or an aquifer, the pump head goes straight
+down to the deepest spot and drains every source of that fluid joined to it, up to 32 blocks past the dig area (loaded
+chunks only, never on protected land). The lake's lower layers get no more trips; water and lava on one layer are one
+trip, a tank each; an ocean is still pumped a layer at a time. The quarry rechecks its hole every time it loads: gravel
+that fell in, blocks placed in the hole and water that came back are dug first, then it carries on from where it was; a
+finished rig does it too while its frame stands. Fixed: with the Extra Drills Upgrade a reload could end the dig early
+and leave blocks behind, and a running rig with a Size upgrade came back from a world load stopped. Worlds from 2.0 and
+1.x carry over.
 
 **Planned: 3.0, the full rig**
 - Bigger rigs: the Heavy Rig (7×7×7) and the Colossal Rig (9×9×9)
