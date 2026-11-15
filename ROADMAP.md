@@ -96,6 +96,13 @@ Pile: build it your own way from graphite and uranium, approach critical with a 
 control it with cadmium rods and a zip rod. Also a research tree: the pile's logs unlock the next reactors' designs.
 No power reactor yet: the pile makes no power. Worlds carry forward to the next betas.
 
+**Being built: 0.1.0-m5, Magnox, the first power reactor.** A graphite stack with fuel channels inside a steel pressure
+vessel, CO2 pushed through it by gas circulators, out through gas ducts to boilers, steam to the turbine, FE out.
+Refuelling while it runs, one channel at a time. Spent fuel: a pool (water shields and cools it; Magnox cans corrode in
+it), a dry cask, and a fuel transfer crane that carries it. New research logs (hours at power, a refuelling cycle, a
+restart through a xenon pit, a clean SCRAM); the RBMK's design will need two of them. Also the pile settles in minutes and
+the recorder logs one first criticality a pile.
+
 ## Living Roads
 
 **Coming soon.** A brand new mod: roads between villages that grow as you play, built by a new Road Builder villager.
