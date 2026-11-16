@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 14, 2026_
+_Last updated: November 15, 2026_
 
 ---
 
@@ -87,21 +87,18 @@ shells, bees in and ore out, and the upgrades. New in 1.1.1: the guides are now 
 
 ## Atomic Generation
 
-**Out now: 0.1.0-m4** (NeoForge 1.21.1), an early beta: milestones 1 to 4 of Atomic Generation 1.0, "First
-Criticality". The real nuclear fuel cycle, from uranium ore to a reactor going critical: 20 ores, radiation in sieverts
-with shielding and contamination, a Geiger counter and hazmat gear; pipes with a real temperature and pressure; the
-whole fuel front end, from ore through centrifuge enrichment to fuel (every gram of U-235 accounted for); the steam
-power side, with a multiblock turbine, a cooling tower and an emergency diesel; and the first reactor, the Chicago
-Pile: build it your own way from graphite and uranium, approach critical with a neutron source and a counter, and
-control it with cadmium rods and a zip rod. Also a research tree: the pile's logs unlock the next reactors' designs.
-No power reactor yet: the pile makes no power. Worlds carry forward to the next betas.
-
-**Being built: 0.1.0-m5, Magnox, the first power reactor.** A graphite stack with fuel channels inside a steel pressure
-vessel, CO2 pushed through it by gas circulators, out through gas ducts to boilers, steam to the turbine, FE out.
-Refuelling while it runs, one channel at a time. Spent fuel: a pool (water shields and cools it; Magnox cans corrode in
-it), a dry cask, and a fuel transfer crane that carries it. New research logs (hours at power, a refuelling cycle, a
-restart through a xenon pit, a clean SCRAM); the RBMK's design will need two of them. Also the pile settles in minutes and
-the recorder logs one first criticality a pile.
+**Out now: 0.1.0-m5** (NeoForge 1.21.1; a beta build on CurseForge): milestones 1 to 5 of Atomic Generation 1.0, "First
+Criticality". Everything 0.1.0-m4 had (the real nuclear fuel cycle from uranium ore to fuel, radiation in sieverts with
+shielding and contamination, the steam power side, the Chicago Pile, the research tree) plus **Magnox, the first power
+reactor:** a graphite stack with fuel channels inside a steel pressure vessel, natural uranium in Magnox cans, CO2 pushed
+through it by gas circulators and out through gas ducts to the boilers, steam to the turbine, FE out (about 3,000 FE/t net
+from a 9-across core). Run it like an operator: rods out a notch at a time, the Doppler effect levels the power, xenon
+builds for the first half hour, trips and SCRAM. Refuelling while it runs, one channel at a time; elements keep their
+burnup, plutonium and decay heat. Spent fuel: a pool (water shields and cools it; Magnox cans corrode under water and leak
+caesium-137), a dry cask, and a fuel transfer crane on rails that carries it. New research logs on the Magnox controller
+(hours at power, a refuelling cycle, a restart through a xenon pit, a clean SCRAM); the RBMK's design will need two of
+them. Also the pile settles in minutes of play and the recorder logs one first criticality a pile. Worlds from 0.1.0-m4
+carry forward, a running pile included.
 
 ## Living Roads
 
