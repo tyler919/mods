@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 15, 2026_
+_Last updated: November 17, 2026_
 
 ---
 
@@ -102,4 +102,4 @@ carry forward, a running pile included.
 
 ## Living Roads
 
-**Coming soon.** A brand new mod: roads between villages that grow as you play, built by a new Road Builder villager.
+**On hold for now.** A brand new mod: roads between villages that grow as you play, built by a new Road Builder villager. It will come back later.
