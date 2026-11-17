@@ -77,6 +77,10 @@ shells, bees in and ore out, and the upgrades. New in 1.1.1: the guides are now 
 
 **Out now: 1.0.1** (NeoForge 1.21.1). Smoother muffling through walls and real 3D sound.
 
+**Being built: 1.0.2**
+- An in-game guidebook that walks you through the Radio Console, speakers, stations, stream links, the music library
+  and how walls change the sound. Needs DecayPlay's Guidebooks.
+
 **Planned: 1.1**
 - A Portable Radio
 - AAC and HLS stations, so a lot more stations play
