@@ -53,6 +53,12 @@ from tanks and pipes (at Tier 20 one bucket of lava smelts 1,500 items), and an 
 XP Works is installed. New in 1.4.1: the in-game Ponder guides are now included, so they work without Create: hover a
 block and hold W. Also fixes the furnace's front staying dark when only a pipe feeds it lava.
 
+**Being built: 1.5.0**
+- An in-game guidebook that walks you through the Colossal Furnace step by step: the Fragment Mold, Jumbo Furnace
+  Fragments, the 6×6×6 build (with a Show in world hologram to build into), input, fuel and output, lava from tanks and
+  pipes, Tiers 2 to 5, the Heart, Tier 20 and the Liquid Experience tank. Hold G over any Colossal Furnace item to open
+  its page. It replaces the Ponder guides. Needs DecayPlay's Guidebooks.
+
 ## XP Works
 
 **Out now: 1.1.1** (NeoForge and Forge, 1.21.1). Liquid Experience, Experience Tanks that join into one big tank,
