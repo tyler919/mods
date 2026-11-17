@@ -100,6 +100,15 @@ caesium-137), a dry cask, and a fuel transfer crane on rails that carries it. Ne
 them. Also the pile settles in minutes of play and the recorder logs one first criticality a pile. Worlds from 0.1.0-m4
 carry forward, a running pile included.
 
+## DecayPlay's Guidebooks
+
+**Being built: 1.0** (NeoForge 1.21.1). The guidebook library every DecayPlay mod will require: one separate mod that
+the CurseForge app installs for you. Each mod gets its own book with hand-holding guided pages (what you need, numbered
+steps each with a picture or a 3D view, done when, if it doesn't work), search, bookmarks and a path that tells you
+what to do next. **Show in world** puts a hologram of any build on the ground to build into: wrong blocks glow red, and
+it's done when every block is right. It replaces the Ponder guides. First book: Atomic Generation's handbook; then
+Colossal Quarry, Colossal Apiary and Colossal Furnace move over.
+
 ## Living Roads
 
 **On hold for now.** A brand new mod: roads between villages that grow as you play, built by a new Road Builder villager. It will come back later.
