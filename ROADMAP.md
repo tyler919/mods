@@ -72,12 +72,18 @@ Nothing picked for the next update yet. Ideas welcome!
 block, and animated scenes show how to build the apiary (the inside stays empty), the bigger Tier II and Tier III
 shells, bees in and ore out, and the upgrades. New in 1.1.1: the guides are now included, so they work without Create.
 
+**Being built: 1.2.0**
+- An in-game guidebook that walks you through the Colossal Apiary step by step: the 7×7×7 build (with a Show in world
+  hologram to build into, and a size picker for the 9×9×9 and 11×11×11), bees in through the Bee Port, flowers in the
+  Garden, ore out through the ports, and every upgrade. Hold G over any Colossal Apiary item to open its page. It
+  replaces the Ponder guides (hold W), so Ponder and Flywheel are no longer inside the jar. Needs DecayPlay's Guidebooks
+  and Productive Bees.
+
 **Ideas**
 - An AE2 output port
 - A Yield VI "Swarm" tier
 - Breeding inside the apiary
 - A gene sampler
-- A guide book
 
 ## Radio Works
 
