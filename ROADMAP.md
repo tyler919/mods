@@ -47,16 +47,14 @@ configs from 2.1, 2.0 and 1.x carry over.
 
 ## Colossal Furnace
 
-**Out now: 1.4.1** (NeoForge 1.21.1, needs Jumbo Furnace). Tiers 1 to 5 and Tier 20, the Heart slot, lava straight
-from tanks and pipes (at Tier 20 one bucket of lava smelts 1,500 items), and an optional Liquid Experience tank when
-XP Works is installed. New in 1.4.1: the in-game Ponder guides are now included, so they work without Create: hover a
-block and hold W. Also fixes the furnace's front staying dark when only a pipe feeds it lava.
-
-**Being built: 1.5.0**
-- An in-game guidebook that walks you through the Colossal Furnace step by step: the Fragment Mold, Jumbo Furnace
-  Fragments, the 6×6×6 build (with a Show in world hologram to build into), input, fuel and output, lava from tanks and
-  pipes, Tiers 2 to 5, the Heart, Tier 20 and the Liquid Experience tank. Hold G over any Colossal Furnace item to open
-  its page. It replaces the Ponder guides. Needs DecayPlay's Guidebooks.
+**Out now: 1.5.0** (NeoForge 1.21.1; needs Jumbo Furnace and DecayPlay's Guidebooks). New in 1.5.0: an in-game
+guidebook, the Colossal Furnace Guide. You get it the first time you join a world. It takes you through the whole mod
+one step at a time: the Jumbo Furnace, the Fragment Mold, Fragments, Colossal Furnace Blocks, the 6×6×6 build,
+hoppers, lava from tanks and pipes, the Liquid Experience tank, every tier and the Heart, up to Tier 20. Show in world
+puts a see-through copy of the furnace on the ground to build into: a wrong block glows red, and it tells you when the
+build is complete. Hover any Colossal Furnace item and hold G to open its page. The numbers in the book are your
+world's numbers. It replaces the hold-W guides (Ponder), so Ponder and Flywheel are no longer inside the jar. Worlds
+and configs from 1.4.1 load unchanged.
 
 ## XP Works
 
