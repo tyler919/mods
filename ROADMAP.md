@@ -70,16 +70,14 @@ and the Experience Drain.
 
 ## Colossal Apiary
 
-**Out now: 1.1.1** (NeoForge 1.21.1, needs Productive Bees). In-game Ponder guides: hold W over a Colossal Apiary
-block, and animated scenes show how to build the apiary (the inside stays empty), the bigger Tier II and Tier III
-shells, bees in and ore out, and the upgrades. New in 1.1.1: the guides are now included, so they work without Create.
-
-**Being built: 1.2.0**
-- An in-game guidebook that walks you through the Colossal Apiary step by step: the 7×7×7 build (with a Show in world
-  hologram to build into, and a size picker for the 9×9×9 and 11×11×11), bees in through the Bee Port, flowers in the
-  Garden, ore out through the ports, and every upgrade. Hold G over any Colossal Apiary item to open its page. It
-  replaces the Ponder guides (hold W), so Ponder and Flywheel are no longer inside the jar. Needs DecayPlay's Guidebooks
-  and Productive Bees.
+**Out now: 1.2.0** (NeoForge 1.21.1; needs Productive Bees and DecayPlay's Guidebooks). New in 1.2.0: an in-game
+guidebook, the Colossal Apiary Handbook. You get it the first time you join a world. 25 pages in 5 chapters: Start
+here takes you from the first casing to the first raw ore one step at a time, and every build has a guided page with
+what you need, numbered steps with a 3D view of the build, "Done when" and "If it doesn't work". Show in world sets a
+see-through ghost of the build down in your world to build into, in each of the three sizes (7, 9 or 11). Hold G over
+any Colossal Apiary item to open its page. The book's numbers are read from the config. It replaces the hold-W guides
+(Ponder), so Ponder and Flywheel are no longer inside the mod and the file is much smaller. Worlds and configs from
+1.1 and 1.0 carry over.
 
 **Ideas**
 - An AE2 output port
