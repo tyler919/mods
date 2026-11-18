@@ -23,15 +23,14 @@ _Last updated: November 18, 2026_
 
 ## Colossal Quarry
 
-**Out now: 2.1.0** (NeoForge, 1.21.1; the Forge file stays on 1.2.0; a beta build on CurseForge). The Pump drains a
-whole lake in one trip: the first time the dig reaches a lake, a flooded cave or an aquifer, the pump head goes straight
-down to the deepest spot and drains every source of that fluid joined to it, up to 32 blocks past the dig area (loaded
-chunks only, never on protected land). The lake's lower layers get no more trips; water and lava on one layer are one
-trip, a tank each; an ocean is still pumped a layer at a time. The quarry rechecks its hole every time it loads: gravel
-that fell in, blocks placed in the hole and water that came back are dug first, then it carries on from where it was; a
-finished rig does it too while its frame stands. Fixed: with the Extra Drills Upgrade a reload could end the dig early
-and leave blocks behind, and a running rig with a Size upgrade came back from a world load stopped. Worlds from 2.0 and
-1.x carry over.
+**Out now: 2.2.0** (NeoForge, 1.21.1; the Forge file stays on 1.2.0; needs DecayPlay's Guidebooks). New in 2.2.0: an
+in-game guidebook, the Colossal Quarry Handbook. You get it the first time you join a world. 36 pages in 6 chapters:
+Start here takes you from the first casing to the first hole one step at a time, and every build and machine has a
+guided page with what you need, numbered steps with a 3D view of the build, "Done when" and "If it doesn't work". Show
+in world sets a see-through ghost of the build down in your world to build into: right blocks vanish, wrong ones glow
+red, and a list says what's still missing. Hold G over any Colossal Quarry item to open its page. It replaces the
+hold-W guides (Ponder), so Ponder and Flywheel are no longer inside the mod and the file is smaller. Worlds and
+configs from 2.1, 2.0 and 1.x carry over.
 
 **Planned: 3.0, the full rig**
 - Bigger rigs: the Heavy Rig (7×7×7) and the Colossal Rig (9×9×9)
@@ -39,7 +38,7 @@ and leave blocks behind, and a running rig with a Size upgrade came back from a 
 - Overdrive, kept cool with water
 - Survey Scanner, and a Survey button that predicts the whole dig
 - Dense Silo Casing (4× the space)
-- Field Manual (an in-game guide book), advancements and a full set of sounds
+- Advancements and a full set of sounds
 - A charge slot on the generators, and optional CC:Tweaked support
 
 **Ideas from players**
