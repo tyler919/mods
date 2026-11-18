@@ -58,13 +58,13 @@ and configs from 1.4.1 load unchanged.
 
 ## XP Works
 
-**Out now: 1.1.1** (NeoForge and Forge, 1.21.1). Liquid Experience, Experience Tanks that join into one big tank,
-and the Experience Drain.
-
-**Being built: 1.2.0**
-- An in-game guidebook that walks you through XP Works step by step: Liquid Experience and its bucket, the Experience
-  Tank and how tanks join into one big tank, and the Experience Drain. Hold G over any XP Works item to open its page.
-  Needs DecayPlay's Guidebooks. NeoForge, 1.21.1 (the Forge file stays on 1.1.1).
+**Out now: 1.2.0** (NeoForge 1.21.1; the Forge file stays on 1.1.1; needs DecayPlay's Guidebooks). New in 1.2.0: an
+in-game guidebook, the XP Works Guide. You get it the first time you join a world. It takes you through the whole mod
+one step at a time: your first Experience Tank, joining tanks into one big tank, the Bucket of Liquid Experience,
+moving a tank, the Experience Drain, a mob farm collector, pipes and comparators. Show in world puts a see-through
+copy of the build on the ground to build into: a wrong block glows red, and it tells you when the build is complete.
+Hover any XP Works item and hold G to open its page. The numbers in the book are your world's numbers. Fixed: JEI now
+lists both Experience Tanks, the empty one and the full one. Worlds and configs from 1.1.1 load unchanged.
 
 ## Colossal Apiary
 
