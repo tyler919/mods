@@ -121,12 +121,15 @@ carry forward, a running pile included.
 
 ## DecayPlay's Guidebooks
 
-**Being built: 1.0** (NeoForge 1.21.1). The guidebook library every DecayPlay mod will require: one separate mod that
-the CurseForge app installs for you. Each mod gets its own book with hand-holding guided pages (what you need, numbered
-steps each with a picture or a 3D view, done when, if it doesn't work), search, bookmarks and a path that tells you
-what to do next. **Show in world** puts a hologram of any build on the ground to build into: wrong blocks glow red, and
-it's done when every block is right. It replaces the Ponder guides. First book: Atomic Generation's handbook; then
-Colossal Quarry, Colossal Apiary and Colossal Furnace move over.
+**Out now: 1.0.0** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; JEI is optional). The
+first release of the guidebook library for DecayPlay's mods: one separate mod that the CurseForge app installs for you.
+On its own it adds nothing; each mod brings its own book. **Guided pages:** what you need with a live count from your
+inventory, numbered steps that tick themselves off, done when, if it doesn't work, and "What do I do next?" on the first
+page. Search, bookmarks, back and forward; the book remembers your page. Pictures, and 3D views of blocks, items, mobs
+and whole builds: one layer at a time, building up block by block, in each size, with the list of what it takes. Recipes
+on the page, with "View in JEI" when JEI is installed. **Show in world:** a hologram of a build to build against. Right
+blocks vanish, wrong blocks glow red, a list shows what is missing, and "Build complete" ticks the step. Hold G over an
+item to open its page. Each mod's book is given on first join and has a cheap recipe. Resource packs can change any page.
 
 **Planned: 1.1**
 - Show in world also checks which way a block faces. Today the hologram checks which block you placed, not its
