@@ -115,6 +115,20 @@ caesium-137), a dry cask, and a fuel transfer crane on rails that carries it. Ne
 them. Also the pile settles in minutes of play and the recorder logs one first criticality a pile. Worlds from 0.1.0-m4
 carry forward, a running pile included.
 
+**Being built: 0.1.0-m6**
+- **Research pool reactor.** The second reactor you can build: a pool of water with a small core at the bottom, the kind
+  universities run. Its fuel shuts a power rise down by itself, so it is safe enough to pulse: a deliberate spike of
+  power for a fraction of a second, with the blue glow. It is for isotopes (cobalt-60, molybdenum-99), material tests
+  and neutron beams more than for power; the RBMK's design will need one of its material tests.
+- **Reactor Operator's Handbook.** An in-game guidebook that walks you through Atomic Generation step by step: finding
+  ore, the fuel machines, pipes and power, radiation and staying alive, the Chicago Pile, Magnox and the research pool
+  reactor. Guided pages tell you what you need and what to do, with 3D views of every build and Show in world holograms
+  to build against. Needs DecayPlay's Guidebooks.
+- **Operator's Goggles.** Goggles you wear to read the plant. Without them, looking at an Atomic Generation block shows
+  its name and a one-word status. With them on, you get the block's live numbers in a small panel by the crosshair
+  (temperatures, pressure, flow, power, dose rate), and more when you sneak. They can be fitted into the hazmat helmet
+  or the lead-suit helmet.
+
 ## DecayPlay's Guidebooks
 
 **Out now: 1.0.0** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; JEI is optional). The
