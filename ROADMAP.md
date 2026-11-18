@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 17, 2026_
+_Last updated: November 18, 2026_
 
 ---
 
@@ -118,6 +118,11 @@ steps each with a picture or a 3D view, done when, if it doesn't work), search, 
 what to do next. **Show in world** puts a hologram of any build on the ground to build into: wrong blocks glow red, and
 it's done when every block is right. It replaces the Ponder guides. First book: Atomic Generation's handbook; then
 Colossal Quarry, Colossal Apiary and Colossal Furnace move over.
+
+**Planned: 1.1**
+- Show in world also checks which way a block faces. Today the hologram checks which block you placed, not its
+  direction, so a furnace or a controller put in facing the wrong way still counts as right. Where a build needs a
+  block to face a certain way, the hologram will check that too.
 
 ## Living Roads
 
