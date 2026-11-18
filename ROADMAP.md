@@ -64,7 +64,10 @@ block and hold W. Also fixes the furnace's front staying dark when only a pipe f
 **Out now: 1.1.1** (NeoForge and Forge, 1.21.1). Liquid Experience, Experience Tanks that join into one big tank,
 and the Experience Drain.
 
-Nothing picked for the next update yet. Ideas welcome!
+**Being built: 1.2.0**
+- An in-game guidebook that walks you through XP Works step by step: Liquid Experience and its bucket, the Experience
+  Tank and how tanks join into one big tank, and the Experience Drain. Hold G over any XP Works item to open its page.
+  Needs DecayPlay's Guidebooks. NeoForge, 1.21.1 (the Forge file stays on 1.1.1).
 
 ## Colossal Apiary
 
