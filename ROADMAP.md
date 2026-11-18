@@ -85,11 +85,12 @@ any Colossal Apiary item to open its page. The book's numbers are read from the 
 
 ## Radio Works
 
-**Out now: 1.0.1** (NeoForge 1.21.1). Smoother muffling through walls and real 3D sound.
-
-**Being built: 1.0.2**
-- An in-game guidebook that walks you through the Radio Console, speakers, stations, stream links, the music library
-  and how walls change the sound. Needs DecayPlay's Guidebooks.
+**Out now: 1.0.2** (NeoForge 1.21.1; needs DecayPlay's Guidebooks). New in 1.0.2: an in-game guidebook, the Radio
+Works Guide. You get it the first time you join a world. It walks you through the mod step by step: your first radio,
+every block, playing a station, pasting a stream link, the music library and adding your own songs, how channels,
+distance and walls change the sound, and a "no sound?" checklist. Two small builds to try, each with a hologram you
+can show in the world and build against: a redstone switch and a sound box. Hold G over a Radio Works block in your
+inventory to open its page. Worlds and settings from 1.0.1 load as they are.
 
 **Planned: 1.1**
 - A Portable Radio
