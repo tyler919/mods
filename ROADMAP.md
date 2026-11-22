@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 18, 2026_
+_Last updated: November 21, 2026_
 
 ---
 
@@ -145,6 +145,13 @@ item to open its page. Each mod's book is given on first join and has a cheap re
 - Show in world also checks which way a block faces. Today the hologram checks which block you placed, not its
   direction, so a furnace or a controller put in facing the wrong way still counts as right. Where a build needs a
   block to face a certain way, the hologram will check that too.
+
+## Peak Demand
+
+A brand new mod, not out yet: run a power company.
+
+**Being built: 1.0**
+- **Peak Demand 1.0.** Sell your power to a grid, earn credits, grow from a farmhouse to the whole world.
 
 ## Living Roads
 
