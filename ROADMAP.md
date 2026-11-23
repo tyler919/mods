@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 21, 2026_
+_Last updated: November 22, 2026_
 
 ---
 
@@ -102,32 +102,27 @@ inventory to open its page. Worlds and settings from 1.0.1 load as they are.
 
 ## Atomic Generation
 
-**Out now: 0.1.0-m5** (NeoForge 1.21.1; a beta build on CurseForge): milestones 1 to 5 of Atomic Generation 1.0, "First
-Criticality". Everything 0.1.0-m4 had (the real nuclear fuel cycle from uranium ore to fuel, radiation in sieverts with
-shielding and contamination, the steam power side, the Chicago Pile, the research tree) plus **Magnox, the first power
-reactor:** a graphite stack with fuel channels inside a steel pressure vessel, natural uranium in Magnox cans, CO2 pushed
-through it by gas circulators and out through gas ducts to the boilers, steam to the turbine, FE out (about 3,000 FE/t net
-from a 9-across core). Run it like an operator: rods out a notch at a time, the Doppler effect levels the power, xenon
-builds for the first half hour, trips and SCRAM. Refuelling while it runs, one channel at a time; elements keep their
-burnup, plutonium and decay heat. Spent fuel: a pool (water shields and cools it; Magnox cans corrode under water and leak
-caesium-137), a dry cask, and a fuel transfer crane on rails that carries it. New research logs on the Magnox controller
-(hours at power, a refuelling cycle, a restart through a xenon pit, a clean SCRAM); the RBMK's design will need two of
-them. Also the pile settles in minutes of play and the recorder logs one first criticality a pile. Worlds from 0.1.0-m4
-carry forward, a running pile included.
-
-**Being built: 0.1.0-m6**
-- **Research pool reactor.** The second reactor you can build: a pool of water with a small core at the bottom, the kind
-  universities run. Its fuel shuts a power rise down by itself, so it is safe enough to pulse: a deliberate spike of
-  power for a fraction of a second, with the blue glow. It is for isotopes (cobalt-60, molybdenum-99), material tests
-  and neutron beams more than for power; the RBMK's design will need one of its material tests.
-- **Reactor Operator's Handbook.** An in-game guidebook that walks you through Atomic Generation step by step: finding
-  ore, the fuel machines, pipes and power, radiation and staying alive, the Chicago Pile, Magnox and the research pool
-  reactor. Guided pages tell you what you need and what to do, with 3D views of every build and Show in world holograms
-  to build against. Needs DecayPlay's Guidebooks.
-- **Operator's Goggles.** Goggles you wear to read the plant. Without them, looking at an Atomic Generation block shows
-  its name and a one-word status. With them on, you get the block's live numbers in a small panel by the crosshair
-  (temperatures, pressure, flow, power, dose rate), and more when you sneak. They can be fitted into the hazmat helmet
-  or the lead-suit helmet.
+**Out now: 0.1.0-m6** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; a beta build on
+CurseForge): milestones 1 to 6 of Atomic Generation 1.0, "First Criticality". Needs DecayPlay's Guidebooks 1.0.0 or
+newer; JEI, Jade, WTHIT and Curios are optional. Everything 0.1.0-m5 had (the real nuclear fuel cycle from uranium ore
+to fuel, radiation in sieverts with shielding and contamination, the steam power side, the Chicago Pile, the research
+tree, and Magnox, the first power reactor, with its fuel pool, dry cask and fuel transfer crane) plus three new things.
+**The research pool reactor:** an open pool with the core on its floor (3 x 3, 5 x 5 or 7 x 7), a graphite reflector
+ring, five blocks of water over it and rod drives on a bridge. Its U-ZrH fuel shuts itself down as it heats, so steady
+power levels off by itself; it glows blue, and the 5 x 5 core makes about 10 MW of heat. It makes no FE: a Pool Heat
+Exchanger sends its heat to a cooling tower. Pulses: the transient rod fires a deliberate spike of power that ends
+itself in a fraction of a second. Experiments: the Rotary Specimen Rack (cobalt-60, material tests), the rabbit tube
+(molybdenum-99, neutron activation analysis) and the Beam Port (neutron radiographs); the zirconium-niobium material
+test gives the report the RBMK's design will need. Also the Gamma Irradiator and the Technetium Generator. **The Reactor
+Operator's Handbook:** an in-game guidebook for the whole mod, 16 chapters and 78 pages. Guided pages for every machine
+and build (what you need, numbered steps, done when, if it doesn't work), every build in 3D with Show in world, a "What
+do I do next?" path, and a page for every item (hold G over it). You get it when you join a world. **Operator's
+Goggles:** without them, a block shows its name and one word (Running, Off, Too hot, Warning, Tripped); with them, its
+live numbers in a panel beside the crosshair, all of them while sneaking. They fit into the Hazmat Hood and the
+Lead-Lined Hood, and into a Curios head slot; Jade and WTHIT follow the same rule. Magnox: Hold power, the reactor
+remembers its xenon, hours and logs through a new controller, and after a trip every rod stays in until Reset trip.
+Fixed: a fuel pool that boiled now stays down until the water is put back. Worlds from 0.1.0-m5 carry forward, a running
+Magnox included.
 
 ## DecayPlay's Guidebooks
 
