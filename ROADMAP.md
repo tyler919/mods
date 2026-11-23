@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 22, 2026_
+_Last updated: November 23, 2026_
 
 ---
 
@@ -123,6 +123,14 @@ Lead-Lined Hood, and into a Curios head slot; Jade and WTHIT follow the same rul
 remembers its xenon, hours and logs through a new controller, and after a trip every rod stays in until Reset trip.
 Fixed: a fuel pool that boiled now stays down until the water is put back. Worlds from 0.1.0-m5 carry forward, a running
 Magnox included.
+
+**Being built: 0.1.0-m7**
+- **The RBMK.** The fourth and biggest reactor of 1.0, the Soviet design: a square grid of channels in a graphite stack,
+  water boiling inside pressure tubes, steam separator drums feeding the turbines, and a crane that refuels it while it
+  runs. Each channel is simulated, so local power peaks are real. It has the real RBMK traps: steam bubbles raise its
+  power at low power and low flow, a xenon pit after a power cut, a minimum of rods that must stay in, and control rods
+  whose graphite tips first add power as they go in. Played carefully, it is the best power in 1.0. It gets its own
+  chapter in the Reactor Operator's Handbook. (The explosion and fallout come in a later milestone.)
 
 ## DecayPlay's Guidebooks
 
