@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 24, 2026_
+_Last updated: November 26, 2026_
 
 ---
 
@@ -120,6 +120,15 @@ is researched from Magnox's logs and a passed zirconium-niobium Material Test Re
 RBMK chapter in the Reactor Operator's Handbook, with the guided build shown in world. Going prompt critical leaves the
 reactor wrecked (fuel locked in, channels ruptured, a big dose); the explosion and fallout come in a later milestone.
 Every plant screen now fits Minecraft's smallest window. Worlds from 0.1.0-m6 carry forward.
+
+**Being built: 0.1.0-m8**
+- **The accidents.** Each reactor fails the way its real design failed. The Chicago Pile and Magnox can catch fire,
+  the research reactor can lose its pool, and the RBMK can blow its lid off in a steam explosion that throws
+  radioactive debris and starts a graphite fire. Releases drift downwind as a fallout plume and settle on the ground;
+  a molten core flows and then sets. Fuel stored carelessly can go critical on its own. A containment building round a
+  reactor keeps most of a release in, and a sarcophagus entombs a wreck. Cleanup: remote handling tongs, a
+  decontamination station, topsoil scraping, potassium iodide and Prussian blue. Mobs and plants feel radiation too.
+  A new Handbook chapter on what goes wrong and how to never meet it.
 
 ## DecayPlay's Guidebooks
 
