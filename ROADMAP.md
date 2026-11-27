@@ -102,33 +102,26 @@ inventory to open its page. Worlds and settings from 1.0.1 load as they are.
 
 ## Atomic Generation
 
-**Out now: 0.1.0-m7** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; a beta build on
-CurseForge): milestones 1 to 7 of Atomic Generation 1.0, "First Criticality". Needs DecayPlay's Guidebooks 1.0.0 or
-newer; JEI, Jade, WTHIT and Curios are optional. Everything 0.1.0-m6 had (the real nuclear fuel cycle from uranium ore
+**Out now: 0.1.0-m8** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; a beta build on
+CurseForge): milestones 1 to 8 of Atomic Generation 1.0, "First Criticality". Needs DecayPlay's Guidebooks 1.0.0 or
+newer; JEI, Jade, WTHIT and Curios are optional. Everything 0.1.0-m7 had (the real nuclear fuel cycle from uranium ore
 to fuel, radiation in sieverts with shielding and contamination, the steam power side, the Chicago Pile, the research
 tree, Magnox with its fuel pool, dry cask and fuel transfer crane, the research pool reactor and its experiments, the
-Reactor Operator's Handbook and Operator's Goggles) plus **the RBMK**, the fourth and biggest reactor of 1.0: a square
-grid of graphite columns (7 x 7 to 25 x 25 channels) with water boiling in the channels and separator drums that join
-the pipe network, so a turbine draws its steam straight off them. The Handbook's guided 13 x 13 makes about 22,000 FE/t;
-17 x 17 and up reach 30,000 to 80,000 FE/t. Every channel is simulated, so local power peaks are real. It has the real
-RBMK traps, all from the physics: steam bubbles raise its power at low power and low flow, a xenon pit after a trip from
-full power, an operating margin of rods that must stay in, and graphite rod tips that first add power as they go in.
-Played carefully, you never meet them. AZ-5 on the controller (or by redstone) and on the new RBMK Control Console,
-which shows a map of every channel; a rod stop holds the rods while the power rises too fast. New blocks: the RBMK Main
-Circulation Pump and the High-Pressure Feed Pump. Refuelling at power with Magnox's refuelling machine. The RBMK design
-is researched from Magnox's logs and a passed zirconium-niobium Material Test Report from the research reactor. A new
-RBMK chapter in the Reactor Operator's Handbook, with the guided build shown in world. Going prompt critical leaves the
-reactor wrecked (fuel locked in, channels ruptured, a big dose); the explosion and fallout come in a later milestone.
-Every plant screen now fits Minecraft's smallest window. Worlds from 0.1.0-m6 carry forward.
-
-**Being built: 0.1.0-m8**
-- **The accidents.** Each reactor fails the way its real design failed. The Chicago Pile and Magnox can catch fire,
-  the research reactor can lose its pool, and the RBMK can blow its lid off in a steam explosion that throws
-  radioactive debris and starts a graphite fire. Releases drift downwind as a fallout plume and settle on the ground;
-  a molten core flows and then sets. Fuel stored carelessly can go critical on its own. A containment building round a
-  reactor keeps most of a release in, and a sarcophagus entombs a wreck. Cleanup: remote handling tongs, a
-  decontamination station, topsoil scraping, potassium iodide and Prussian blue. Mobs and plants feel radiation too.
-  A new Handbook chapter on what goes wrong and how to never meet it.
+RBMK with its real traps, the Reactor Operator's Handbook and Operator's Goggles) plus **the accidents**: each reactor
+now fails the way its real design failed. Played carefully, you never meet them. Damage shows step by step (Normal,
+Alarm, Fuel damage, Core melt, Breach, Release) on each reactor's read-out, the goggles and Jade; alarm and fuel damage
+can be fixed by taking the damaged fuel out. The Chicago Pile and Magnox can catch fire, the research reactor can crack
+its fuel or lose its pool, a Magnox vessel can burst, and the RBMK can blow its lid off in a steam explosion that
+throws radioactive fuel and graphite up to 40 blocks and starts a graphite fire. Any reactor that loses its cooling
+after a shutdown can still melt from its decay heat. Fires are put out with sand, boron carbide or lead. Releases drift
+downwind as a fallout plume and settle on the ground; molten cores flow like slow lava and set into the Elephant's
+Foot. Fuel stored carelessly can go critical on its own (a warning sounds at 80% of the limit). Build a containment
+building round a reactor to keep most of a release in, or entomb a wreck in a sarcophagus. Cleanup tools: Remote
+Handling Tongs and a Shielded Container for debris, a Decontamination Station, a Topsoil Scraper, a Neutron Survey
+Meter, potassium iodide and Prussian blue. Mobs and plants feel radiation too. Server settings for block damage,
+explosion size, fallout and more. A new "Accidents" chapter in the Reactor Operator's Handbook (now 18 chapters, 94
+pages), with the real accidents: Windscale 1957, Chernobyl 1986 and the "demon core". Worlds from 0.1.0-m7 carry
+forward.
 
 ## DecayPlay's Guidebooks
 
