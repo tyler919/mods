@@ -123,6 +123,14 @@ explosion size, fallout and more. A new "Accidents" chapter in the Reactor Opera
 pages), with the real accidents: Windscale 1957, Chernobyl 1986 and the "demon core". Worlds from 0.1.0-m7 carry
 forward.
 
+**Being built: 0.1.0-m9**
+- **New screens.** Every Atomic Generation screen redone in one clear style: one big word across the top that says how
+  the plant is doing (Running, Warning, Tripped ...), the few numbers that matter on bars that show safe and close to the
+  limit at a glance, and alarms in plain words: what is happening and what to do. The goggles say the same thing.
+- **Blueprints.** A cheap item for every multiblock: pick a build, see its size and the blocks it needs (what you have
+  and what is missing), place a hologram to build against, or let it build itself from your inventory, a few blocks at
+  a time. It never builds for free in survival and never breaks a block.
+
 ## DecayPlay's Guidebooks
 
 **Out now: 1.0.0** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; JEI is optional). The
