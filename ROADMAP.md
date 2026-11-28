@@ -118,6 +118,13 @@ glow red), or press Build and it places the blocks for you from your inventory a
 survival, never breaks a block). Two new Handbook pages, "Blueprints" and "Reading your screens" (now 18 chapters, 96
 pages). Worlds from 0.1.0-m8 carry forward.
 
+**Being built: 0.1.0-m10**
+- **Computers.** Optional CC:Tweaked support: control ports on the reactors, turbines and pumps, so a computer can read
+  every number and alarm and move rods, pumps and valves. A computer can never stop a SCRAM. A ready-made SCADA floppy
+  to start from. Without CC:Tweaked, a redstone signal can SCRAM any reactor and comparators read its power.
+- **For modpacks.** An optional FTB Quests add-on with special quest tasks, a ready-made quest chapter set made from the
+  Handbook, and KubeJS events.
+
 ## DecayPlay's Guidebooks
 
 **Out now: 1.0.0** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; JEI is optional). The
