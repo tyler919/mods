@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 27, 2026_
+_Last updated: November 28, 2026_
 
 ---
 
@@ -102,28 +102,22 @@ inventory to open its page. Worlds and settings from 1.0.1 load as they are.
 
 ## Atomic Generation
 
-**Out now: 0.1.0-m9** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; a beta build on
-CurseForge): milestones 1 to 9 of Atomic Generation 1.0, "First Criticality". Needs DecayPlay's Guidebooks 1.0.0 or
-newer; JEI, Jade, WTHIT and Curios are optional. Everything 0.1.0-m8 had (the real nuclear fuel cycle from uranium ore
-to fuel, radiation in sieverts with shielding and contamination, the steam power side, the Chicago Pile, the research
-tree, Magnox with its fuel pool, dry cask and fuel transfer crane, the research pool reactor and its experiments, the
-RBMK with its real traps, the accidents with fires, fallout and containment, the Reactor Operator's Handbook and
-Operator's Goggles) plus **new screens and Blueprints**. Every reactor and machine screen is redone in one clear
-style: a big state word across the top (RUNNING, WARNING, ALARM, TRIPPED...), each reactor's four key numbers on bars
-that go green, yellow and red with a trend line, and every alarm in plain words, worst first: what is happening and
-what to do. Hover over a physics word to see what it means, or open its Handbook page. The goggles, Jade and WTHIT use
-the same words and colours. The new **Blueprint** item covers every multiblock: pick one and its size, see the space
-and blocks it needs and what you're missing, place a hologram to build against (missing blocks are ghosts, wrong ones
-glow red), or press Build and it places the blocks for you from your inventory and a linked chest (never free in
-survival, never breaks a block). Two new Handbook pages, "Blueprints" and "Reading your screens" (now 18 chapters, 96
-pages). Worlds from 0.1.0-m8 carry forward.
-
-**Being built: 0.1.0-m10**
-- **Computers.** Optional CC:Tweaked support: control ports on the reactors, turbines and pumps, so a computer can read
-  every number and alarm and move rods, pumps and valves. A computer can never stop a SCRAM. A ready-made SCADA floppy
-  to start from. Without CC:Tweaked, a redstone signal can SCRAM any reactor and comparators read its power.
-- **For modpacks.** An optional FTB Quests add-on with special quest tasks, a ready-made quest chapter set made from the
-  Handbook, and KubeJS events.
+**Out now: 0.1.0-m10** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; a beta build on
+CurseForge): milestones 1 to 10 of Atomic Generation 1.0, "First Criticality". Needs DecayPlay's Guidebooks 1.0.0 or
+newer; JEI, Jade, WTHIT, Curios, CC: Tweaked, FTB Quests and KubeJS are optional. Everything 0.1.0-m9 had (the real
+nuclear fuel cycle from uranium ore to fuel, radiation in sieverts with shielding and contamination, the steam power
+side, the Chicago Pile, the research tree, Magnox with its fuel pool, dry cask and fuel transfer crane, the research
+pool reactor and its experiments, the RBMK with its real traps, the accidents with fires, fallout and containment, the
+new screens, Blueprints, the Reactor Operator's Handbook and Operator's Goggles) plus **computers and quests**. Three
+new port blocks (Reactor Control Port, Turbine Port, Pump Port) join a reactor, turbine or pump. Without a computer, a
+comparator reads the reactor's power or worst alarm, and a redstone signal SCRAMs it. With optional **CC: Tweaked**,
+every port is a peripheral: a computer can read every number and alarm and drive rods, pumps, turbines, valves and
+refuelling machines, with events for SCRAMs, alarms, trips and accidents (a computer can never stop a SCRAM). The
+craftable **Reference SCADA Floppy** is a ready-made program to start from: status screen, power trend, alarms on a
+speaker and automatic rods. For modpacks: every operating log and passed material test is now an advancement; optional
+**FTB Quests** support adds five quest task types and a "grant design" reward, plus a ready-made 19-chapter, 104-quest
+chapter set inside the jar; optional **KubeJS** events for every milestone. A new Handbook chapter, "Computers and
+quests" (now 19 chapters), and JEI pages for the ports and the floppy. Worlds from 0.1.0-m9 carry forward.
 
 ## DecayPlay's Guidebooks
 
