@@ -17,7 +17,7 @@ existing one a 👍. I look at the 👍 counts when I pick what goes in the next
 
 **Want a ping when a mod updates?** Join [DecayPlay's Workshop on Discord](https://discord.gg/y6z5GpgBcr).
 
-_Last updated: November 26, 2026_
+_Last updated: November 27, 2026_
 
 ---
 
@@ -102,34 +102,21 @@ inventory to open its page. Worlds and settings from 1.0.1 load as they are.
 
 ## Atomic Generation
 
-**Out now: 0.1.0-m8** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; a beta build on
-CurseForge): milestones 1 to 8 of Atomic Generation 1.0, "First Criticality". Needs DecayPlay's Guidebooks 1.0.0 or
-newer; JEI, Jade, WTHIT and Curios are optional. Everything 0.1.0-m7 had (the real nuclear fuel cycle from uranium ore
+**Out now: 0.1.0-m9** (NeoForge 1.21.1, NeoForge 21.1.200 or newer, on both client and server; a beta build on
+CurseForge): milestones 1 to 9 of Atomic Generation 1.0, "First Criticality". Needs DecayPlay's Guidebooks 1.0.0 or
+newer; JEI, Jade, WTHIT and Curios are optional. Everything 0.1.0-m8 had (the real nuclear fuel cycle from uranium ore
 to fuel, radiation in sieverts with shielding and contamination, the steam power side, the Chicago Pile, the research
 tree, Magnox with its fuel pool, dry cask and fuel transfer crane, the research pool reactor and its experiments, the
-RBMK with its real traps, the Reactor Operator's Handbook and Operator's Goggles) plus **the accidents**: each reactor
-now fails the way its real design failed. Played carefully, you never meet them. Damage shows step by step (Normal,
-Alarm, Fuel damage, Core melt, Breach, Release) on each reactor's read-out, the goggles and Jade; alarm and fuel damage
-can be fixed by taking the damaged fuel out. The Chicago Pile and Magnox can catch fire, the research reactor can crack
-its fuel or lose its pool, a Magnox vessel can burst, and the RBMK can blow its lid off in a steam explosion that
-throws radioactive fuel and graphite up to 40 blocks and starts a graphite fire. Any reactor that loses its cooling
-after a shutdown can still melt from its decay heat. Fires are put out with sand, boron carbide or lead. Releases drift
-downwind as a fallout plume and settle on the ground; molten cores flow like slow lava and set into the Elephant's
-Foot. Fuel stored carelessly can go critical on its own (a warning sounds at 80% of the limit). Build a containment
-building round a reactor to keep most of a release in, or entomb a wreck in a sarcophagus. Cleanup tools: Remote
-Handling Tongs and a Shielded Container for debris, a Decontamination Station, a Topsoil Scraper, a Neutron Survey
-Meter, potassium iodide and Prussian blue. Mobs and plants feel radiation too. Server settings for block damage,
-explosion size, fallout and more. A new "Accidents" chapter in the Reactor Operator's Handbook (now 18 chapters, 94
-pages), with the real accidents: Windscale 1957, Chernobyl 1986 and the "demon core". Worlds from 0.1.0-m7 carry
-forward.
-
-**Being built: 0.1.0-m9**
-- **New screens.** Every Atomic Generation screen redone in one clear style: one big word across the top that says how
-  the plant is doing (Running, Warning, Tripped ...), the few numbers that matter on bars that show safe and close to the
-  limit at a glance, and alarms in plain words: what is happening and what to do. The goggles say the same thing.
-- **Blueprints.** A cheap item for every multiblock: pick a build, see its size and the blocks it needs (what you have
-  and what is missing), place a hologram to build against, or let it build itself from your inventory, a few blocks at
-  a time. It never builds for free in survival and never breaks a block.
+RBMK with its real traps, the accidents with fires, fallout and containment, the Reactor Operator's Handbook and
+Operator's Goggles) plus **new screens and Blueprints**. Every reactor and machine screen is redone in one clear
+style: a big state word across the top (RUNNING, WARNING, ALARM, TRIPPED...), each reactor's four key numbers on bars
+that go green, yellow and red with a trend line, and every alarm in plain words, worst first: what is happening and
+what to do. Hover over a physics word to see what it means, or open its Handbook page. The goggles, Jade and WTHIT use
+the same words and colours. The new **Blueprint** item covers every multiblock: pick one and its size, see the space
+and blocks it needs and what you're missing, place a hologram to build against (missing blocks are ghosts, wrong ones
+glow red), or press Build and it places the blocks for you from your inventory and a linked chest (never free in
+survival, never breaks a block). Two new Handbook pages, "Blueprints" and "Reading your screens" (now 18 chapters, 96
+pages). Worlds from 0.1.0-m8 carry forward.
 
 ## DecayPlay's Guidebooks
 
